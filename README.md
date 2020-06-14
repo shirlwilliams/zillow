@@ -1,1 +1,2 @@
 # zillow
+Begining a project using zillow home sales data. Will be using time-series modeling to predict top selling areas. In this time of COVID19 pandemic, I would imagine different models than other times.
